@@ -1,0 +1,9 @@
+{
+	"id": "obsidian-practice-tool",
+	"name": "Practice Tool",
+	"version": "0.1.0",
+	"minAppVersion": "1.4.0",
+	"description": "Capture Holacracy/PowerShift tensions as notes and create linked next actions.",
+	"author": "Marco Bogers",
+	"isDesktopOnly": false
+}
