@@ -1,0 +1,9 @@
+.practice-tool-modal textarea {
+	width: 100%;
+	min-height: 6rem;
+	resize: vertical;
+}
+
+.practice-tool-modal input[type="text"] {
+	width: 100%;
+}
